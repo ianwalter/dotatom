@@ -1,0 +1,2 @@
+# dotatom
+> My Atom configuratio
