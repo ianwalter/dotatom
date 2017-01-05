@@ -1,20 +1,24 @@
 atom-html-preview@0.1.22
+atom-typescript@10.1.13
 autocomplete-go@1.3.0
 builder-go@1.0.1
-editorconfig@1.5.3
-file-icons@1.7.22
+editorconfig@2.0.5
+file-icons@2.0.7
 go-config@1.2.4
 go-get@2.1.1
-go-plus@4.3.2
+go-plus@5.0.9
+godoc@1.1.1
 gofmt@1.2.0
 gometalinter-linter@1.2.2
 gorename@1.1.0
 language-docker@1.1.7
 language-elixir@0.16.0
-language-vue@0.19.0
+language-erlang@3.0.0
+language-vue@0.21.0
 linter@1.11.18
+linter-erlang@0.3.1
 navigator-go@1.1.3
-navigator-godef@1.0.3
+svgo@2.6.0
 tester-go@2.0.2
 
 
