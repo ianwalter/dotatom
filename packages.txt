@@ -7,7 +7,7 @@ file-icons@2.0.8
 go-config@1.2.4
 go-debug@1.0.3
 go-get@2.1.1
-go-plus@5.0.9
+go-plus@5.1.0
 godoc@1.1.1
 gofmt@1.2.0
 gometalinter-linter@1.2.2
