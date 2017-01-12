@@ -2,7 +2,7 @@ atom-html-preview@0.1.22
 atom-typescript@10.1.13
 autocomplete-go@1.3.0
 builder-go@1.0.1
-editorconfig@2.1.0
+editorconfig@2.2.0
 file-icons@2.0.8
 go-config@1.2.4
 go-debug@1.0.3
