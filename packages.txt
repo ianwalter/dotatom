@@ -6,4 +6,5 @@ language-erlang@3.0.0
 language-typescript-grammars-only@1.5.0
 language-vue@0.21.2
 one-dark-vivid-syntax@1.7.1
+svgo@2.6.0
 
