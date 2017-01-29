@@ -3,15 +3,18 @@
     disabledPackages: [
       "welcome"
     ]
+    openEmptyEditorOnStart: false
     themes: [
       "one-dark-ui"
       "one-dark-vivid-syntax"
     ]
+    useCustomTitleBar: true
   editor:
     autoIndentOnPaste: false
     backUpBeforeSaving: true
     fontFamily: "SF Mono"
     fontSize: 16
+    lineHeight: 1.6
     showIndentGuide: true
     showInvisibles: true
   "exception-reporting":
