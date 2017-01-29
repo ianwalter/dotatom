@@ -1,0 +1,20 @@
+"*":
+  core:
+    disabledPackages: [
+      "welcome"
+    ]
+    themes: [
+      "one-dark-ui"
+      "one-dark-vivid-syntax"
+    ]
+  editor:
+    autoIndentOnPaste: false
+    backUpBeforeSaving: true
+    fontFamily: "SF Mono"
+    fontSize: 16
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "e35908d2-74c8-e05d-f616-ff2d37096212"
+  welcome:
+    showOnStartup: false
