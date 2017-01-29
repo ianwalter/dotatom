@@ -1,10 +1,11 @@
 atom-easy-jsdoc@4.9.0
 editorconfig@2.2.0
-file-icons@2.0.10
+file-icons@2.0.13
+import-sf-mono@1.0.1
 language-docker@1.1.7
 language-elixir@0.16.0
 language-erlang@3.0.0
-language-typescript-grammars-only@1.5.0
+language-typescript-grammars-only@1.6.0
 language-vue@0.21.2
 one-dark-vivid-syntax@1.7.1
 svgo@2.6.0
