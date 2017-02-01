@@ -12,7 +12,7 @@
   editor:
     autoIndentOnPaste: false
     backUpBeforeSaving: true
-    fontFamily: "SF Mono"
+    fontFamily: "SF Mono, Fira Code",
     fontSize: 16
     lineHeight: 1.6
     showIndentGuide: true
