@@ -4,7 +4,7 @@ file-icons@2.0.15
 import-sf-mono@1.0.1
 language-batchfile@0.5.2
 language-docker@1.1.7
-language-elixir@0.16.0
+language-elixir@0.17.0
 language-erlang@3.0.0
 language-typescript-grammars-only@1.6.0
 language-vue@0.21.2

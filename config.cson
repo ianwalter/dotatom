@@ -17,6 +17,7 @@
     lineHeight: 1.6
     showIndentGuide: true
     showInvisibles: true
+    zoomFontWhenCtrlScrolling: false
   "exception-reporting":
     userId: "e35908d2-74c8-e05d-f616-ff2d37096212"
   "local-history":
