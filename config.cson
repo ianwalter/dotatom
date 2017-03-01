@@ -22,5 +22,6 @@
     userId: "e35908d2-74c8-e05d-f616-ff2d37096212"
   "local-history":
     difftoolCommand: "ksdiff \"{current-file}\" \"{revision-file}\""
+  "node-debugger": {}
   welcome:
     showOnStartup: false
