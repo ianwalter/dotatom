@@ -11,5 +11,5 @@ language-typescript-grammars-only@1.6.0
 language-vue@0.21.2
 local-history@4.0.1
 one-dark-vivid-syntax@1.7.1
-svgo@2.8.4
+svgo@2.8.5
 
