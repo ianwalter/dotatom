@@ -8,7 +8,7 @@
       "one-dark-ui"
       "one-dark-vivid-syntax"
     ]
-    useCustomTitleBar: true
+    titleBar: "custom"
   editor:
     autoIndentOnPaste: false
     backUpBeforeSaving: true

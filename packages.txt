@@ -1,6 +1,6 @@
 atom-easy-jsdoc@4.12.1
 editorconfig@2.2.2
-file-icons@2.1.2
+file-icons@2.1.3
 import-sf-mono@1.0.1
 language-batchfile@0.5.2
 language-docker@1.1.7
