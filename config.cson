@@ -1,6 +1,7 @@
 "*":
   "bracket-matcher":
     autocompleteBrackets: false
+    wrapSelectionsInBrackets: false
   core:
     disabledPackages: [
       "welcome"
