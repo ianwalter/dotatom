@@ -3,10 +3,10 @@ editorconfig@2.2.2
 file-icons@2.1.8
 import-sf-mono@1.0.1
 language-batchfile@0.7.0
+language-blade@0.32.0
 language-docker@1.1.8
 language-elixir@0.19.0
 language-erlang@3.2.0
-language-fish-shell@1.0.5
 language-javascript-jsx@0.3.7
 language-nunjucks@4.1.0
 language-pug@0.0.21

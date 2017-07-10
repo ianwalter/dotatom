@@ -16,7 +16,7 @@
     autoIndentOnPaste: false
     backUpBeforeSaving: true
     fontFamily: "Fira Code"
-    fontSize: 16
+    fontSize: 17
     lineHeight: 1.6
     showIndentGuide: true
     showInvisibles: true
@@ -28,3 +28,7 @@
   "node-debugger": {}
   welcome:
     showOnStartup: false
+".blade.html.php.text":
+  editor:
+    commentEnd: " --}}"
+    commentStart: "{{-- "
