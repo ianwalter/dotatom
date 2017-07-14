@@ -8,11 +8,14 @@ language-docker@1.1.8
 language-elixir@0.19.0
 language-erlang@3.2.0
 language-javascript-jsx@0.3.7
+language-mjml@1.10.0
 language-nunjucks@4.1.0
 language-pug@0.0.21
 language-typescript-grammars-only@1.6.0
 language-vue@0.23.0
+linter-mjml@1.2.0
 local-history@4.3.0
+mjml-preview@1.4.0
 one-dark-vivid-syntax@1.8.0
 svgo@2.8.5
 
