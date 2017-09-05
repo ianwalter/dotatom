@@ -1,10 +1,15 @@
 #!/bin/sh
 
+apm_bin=apm.cmd
+if [[ $(uname) == '' ]]; then
+  apm_bin=apm
+fi
+
 # Prompt to upgrade all packages
-apm upgrade
+$apm_bin upgrade
 
 # Save package list to text file
-apm list --installed --bare > ./packages.txt
+$apm_bin list --installed --bare > ./packages.txt
 
 # Copy settings file
 cp ~/.atom/config.cson ./config.cson
