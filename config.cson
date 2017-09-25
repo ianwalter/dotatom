@@ -27,6 +27,8 @@
   "local-history":
     difftoolCommand: "ksdiff \"{current-file}\" \"{revision-file}\""
   "node-debugger": {}
+  "svg-preview":
+    openPreviewAutomatically: true
   welcome:
     showOnStartup: false
 ".blade.html.php.text":

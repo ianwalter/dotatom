@@ -1,9 +1,11 @@
 advanced-open-file@0.16.6
 atom-ide-ui@0.3.3
+busy-signal@1.4.3
 edge@2.1.0
 editorconfig@2.2.2
 file-icons@2.1.12
 import-sf-mono@1.0.1
+intentions@1.1.5
 language-batchfile@0.7.0
 language-blade@0.36.0
 language-docker@1.1.8
@@ -19,5 +21,6 @@ local-history@4.3.0
 markdown-pdf@2.1.0
 mjml-preview@1.4.0
 one-dark-vivid-syntax@1.8.0
+svg-preview@0.11.0
 svgo@2.8.5
 
