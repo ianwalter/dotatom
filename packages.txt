@@ -7,6 +7,7 @@ intentions@1.1.5
 language-docker@1.1.8
 language-elixir@0.20.3
 language-erlang@3.2.0
+language-fish-shell@1.0.5
 language-javascript-jsx@0.3.7
 language-mjml@1.10.0
 language-typescript-grammars-only@1.6.0
@@ -16,4 +17,5 @@ mjml-preview@1.4.0
 one-dark-vivid-syntax@1.8.0
 svg-preview@0.11.0
 svgo@2.8.5
+todo-show@2.1.0
 
