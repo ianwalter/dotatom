@@ -1,7 +1,8 @@
 advanced-open-file@0.16.7
 busy-signal@1.4.3
 editorconfig@2.2.2
-file-icons@2.1.13
+file-icons@2.1.14
+git-blame@1.3.1
 import-sf-mono@1.0.1
 intentions@1.1.5
 language-docker@1.1.8
@@ -15,7 +16,7 @@ language-vue@0.23.1
 local-history@4.3.1
 mjml-preview@1.4.0
 one-dark-vivid-syntax@1.8.0
-svg-preview@0.11.0
+svg-preview@0.12.1
 svgo@2.8.5
 todo-show@2.1.0
 
